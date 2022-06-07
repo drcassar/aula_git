@@ -1,5 +1,7 @@
-# Bem-vinda(o) a aula de Git!!
+<div align='center'>
+  <h2>Vish Dani, agora é meu</h2>
 
-Vamos aprender a usar o git hoje!
+  perdeu
 
-Git é muito importante.
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+</div>
