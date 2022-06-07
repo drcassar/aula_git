@@ -1,2 +1,3 @@
-# aula_git
-Repositório para a aula de GitHub
+# Bem-vinda(o) a aula de Git!!
+
+Vamos aprender a usar o git hoje!
