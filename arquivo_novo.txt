@@ -1,2 +1,7 @@
 este é um arquivo novo
+
 agora é um arquivo semi-novo
+
+testando editar após o fork 😊 (Vitória Yumi Uetuki Nicoleti)
+
+será que este é mesmo um arquivo novo?
