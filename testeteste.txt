@@ -1,1 +1,4 @@
 testeeeeeeeeeeeeee
+
+def funcao(a):
+    return "olá"
